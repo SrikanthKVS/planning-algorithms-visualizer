@@ -1,3 +1,0 @@
-/home/srikanth/rrt_star/build/CMakeFiles/rrt_server.dir
-/home/srikanth/rrt_star/build/CMakeFiles/edit_cache.dir
-/home/srikanth/rrt_star/build/CMakeFiles/rebuild_cache.dir
